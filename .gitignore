@@ -1,0 +1,15 @@
+venv/
+env/
+*.pyc
+__pycache__/
+instance/
+.cache/
+.pytest_cache/
+.coverage
+htmlcov/
+dist/
+build/
+.idea/
+.git/
+.directory
+.DS_Store
